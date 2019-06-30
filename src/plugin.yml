@@ -1,0 +1,9 @@
+name: KnockPVP
+author: Wasserpfeife
+version: 1.0
+main: de.retaxmc.knockpvp.main.KnockPVP
+
+commands:
+     setspawn:
+     stats:
+     ranking:
